@@ -30,6 +30,8 @@ flask-unittest = "==0.1.2"
 requests = "==2.27.1"
 rq-dashboard = "==0.6.1"
 rq-scheduler = "==0.11.0"
+markupsafe = "==2.0.1"
+itsdangerous = "==2.0.1"
 
 [dev-packages]
 
