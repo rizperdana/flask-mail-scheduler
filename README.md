@@ -58,8 +58,8 @@ FLASK_APP=run.py flask db upgrade
     ```
     {
         "data": {
-            "email_content": "Лорем ипсум долор сит амет, но пер утинам луптатум адолесценс, яуо цонгуе алияуандо ид. Усу не новум утамур доцен",
-            "email_subject": "😋 Лорем",
+            "email_content": "Lorem ipsuom dolor sit amet",
+            "email_subject": "😋 Lorem",
             "event_id": 3,
             "timestamp": "13 Mar 2022 20:30"
         },
